@@ -1,6 +1,6 @@
 # Random Quote Machine
 
-Project 1 from FreeCodeCamp's Front End Development Libraries Certificate.
+Project 1 from FreeCodeCamp's Front End Development Libraries Certificate - completed on 27/04/2022
 
 Built using HTML, SASS, JavaScript, and React.
 
