@@ -5,6 +5,6 @@ Project 1 from FreeCodeCamp's Front End Development Libraries Certificate.
 Built using HTML, SASS, JavaScript, and React.
 
 <p align="center">
-  <img width="45%" alt="Screen Shot 2022-04-27 at 3 00 42 pm" src="https://user-images.githubusercontent.com/96323853/165445963-151d970a-ae32-4b35-83c2-a5c4feeb74bc.png">
-  <img width="45%" alt="Screen Shot 2022-04-27 at 3 19 22 pm" src="https://user-images.githubusercontent.com/96323853/165445972-55d68f76-6eca-42ce-b521-a349ae6a12b2.png">
+  <img width="45%" alt="Screen Shot 2022-04-27 at 3 21 20 pm" src="https://user-images.githubusercontent.com/96323853/165446321-1fac82b0-5c21-4c32-8fb9-b35b1a6609e3.png">
+  <img width="45%" alt="Screen Shot 2022-04-27 at 3 22 23 pm" src="https://user-images.githubusercontent.com/96323853/165446396-9b65fc04-61da-4dd8-a8d5-f1655be85e8d.png">
 </p>
